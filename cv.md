@@ -1,4 +1,4 @@
-# [rsschool-cv](https://app.rs.school/cv/3b5f8ceb-78b6-4802-b4b7-4dc3dc656638)
+# [rsschool-cv](https://denzol91.github.io/rsschool-cv/cv)
 # **Denis Zavarukhin**
 ![foto](https://github.com/Denzol91/foto/blob/main/174.jpg?raw=true)
 ## **Contact:**
