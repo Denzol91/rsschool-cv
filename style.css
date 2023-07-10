@@ -1,0 +1,101 @@
+html {
+    width: 1280px;
+    margin: auto;
+    scroll-behavior: smooth;
+    background-color: #202124;
+}
+
+body {
+    margin: auto;
+    width: 800px;
+    padding: 15px 50px 0px 50px;
+    background-color: #2e3239;
+    box-shadow: 10px 5px 5px #a2b2ee;
+    color: #FFFFFF;
+}
+
+.foto {
+    float: left;
+    border-radius: 25% 10%;
+    box-shadow: 10px 5px 5px #a2b2ee;
+    text-align: left;
+}
+
+.name {
+    padding: 25px 0px 0px 300px;
+    color:#5f7adb
+}
+
+.navi {
+    display: inline;
+}
+
+.navi_list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.button {
+    border: 1px solid #a2b2ee;
+    border-radius: 15%;
+    box-shadow: 2px 2px 2px #a2b2ee;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.button:hover {
+    color:#5f7adb
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.dot {
+    list-style: circle;
+}
+
+.left {
+    height: 800px;
+    width: 60%;
+    float: left;
+}
+
+.right {
+    height: 800px;
+    width: 40%;
+    float: right;
+}
+
+.flotter {
+    clear: left;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:focus {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:active {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
