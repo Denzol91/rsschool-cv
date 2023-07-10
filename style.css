@@ -1,5 +1,4 @@
 html {
-    position: fixed;
     width: 1280px;
     margin: auto;
     scroll-behavior: smooth;
@@ -10,7 +9,6 @@ body {
     margin: auto;
     width: 800px;
     padding: 15px 50px 0px 50px;
-    position: fixed;
     background-color: #2e3239;
     box-shadow: 10px 5px 5px #a2b2ee;
     color: #FFFFFF;
@@ -18,25 +16,21 @@ body {
 
 .foto {
     float: left;
-    position: fixed;
     border-radius: 25% 10%;
     box-shadow: 10px 5px 5px #a2b2ee;
     text-align: left;
 }
 
 .name {
-    position: fixed;
     padding: 25px 0px 0px 300px;
     color:#5f7adb
 }
 
 .navi {
-    position: fixed;
     display: inline;
 }
 
 .navi_list {
-    position: fixed;
     list-style: none;
     display: flex;
     justify-content: space-between;
@@ -45,7 +39,6 @@ body {
 }
 
 .button {
-    position: fixed;
     border: 1px solid #a2b2ee;
     border-radius: 15%;
     box-shadow: 2px 2px 2px #a2b2ee;
@@ -66,21 +59,18 @@ ul {
 }
 
 .left {
-    position: fixed;
     height: 800px;
     width: 60%;
     float: left;
 }
 
 .right {
-    position: fixed;
     height: 800px;
     width: 40%;
     float: right;
 }
 
 .flotter {
-    position: fixed;
     clear: left;
     text-align: center;
 }
